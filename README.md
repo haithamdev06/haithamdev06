@@ -43,5 +43,12 @@ In between, I build for the web and ship side projects to see what breaks.
   <a href="mailto:mounajedhaitham@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haithamdev06/haithamdev06/output/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haithamdev06/haithamdev06/output/snake-light.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/haithamdev06/haithamdev06/output/snake.svg" />
+  </picture>
+</p>
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/haithamdev06">haithamdev06</a></i></p>
