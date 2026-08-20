@@ -50,5 +50,4 @@ In between, I build for the web and ship side projects to see what breaks.
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/haithamdev06/haithamdev06/output/snake.svg" />
   </picture>
 </p>
----
 <p align="center"><i>⭐️ From <a href="https://github.com/haithamdev06">haithamdev06</a></i></p>
